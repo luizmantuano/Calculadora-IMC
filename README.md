@@ -18,13 +18,13 @@ https://user-images.githubusercontent.com/108959785/217717236-ac2f6a3c-d6e2-4ccb
 🎯 Install the dependencies and start the server
 
 ```
-3. yarn install
-4. yarn start
+1. yarn install
+2. yarn start
 ```
 or
 ```
-3. npm install
-4. npm start
+1. npm install
+2. npm start
 ```
 
 
