@@ -2,6 +2,8 @@
     <a>Calculadora IMC </a>
 </h1>
 
+https://user-images.githubusercontent.com/108959785/217717236-ac2f6a3c-d6e2-4ccb-ad9f-546239b7e005.mp4
+
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
