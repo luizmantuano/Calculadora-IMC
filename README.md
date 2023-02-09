@@ -13,6 +13,22 @@
 * [Expo](https://docs.expo.io/)
 
 
+🎯 Install the dependencies and start the server
+
+```
+3. yarn install
+4. yarn start
+```
+or
+```
+3. npm install
+4. npm start
+```
+
+
 ##  📃Licença
 
-* Licenciado para usuários e colaboradores sob licença do MIT.
+* Licensed for users and contributors under MIT license.
+
+---
+<p align="center">Developed with ❤️ by Luiz Mantuano</p>
