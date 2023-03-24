@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/108959785/217717236-ac2f6a3c-d6e2-4ccb
 * [Typescript](https://www.typescriptlang.org/)
 * [Expo](https://docs.expo.io/)
 
-
+frfr
 🎯 Install the dependencies and start the server
 
 ```
