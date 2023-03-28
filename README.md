@@ -28,7 +28,7 @@ or
 ```
 
 
-##  📃Licença dawdaw
+##  📃Licença
 
 * Licensed for users and contributors under MIT license.
 
